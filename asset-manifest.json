@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/COLOR_PICKER_MERN_TASK3/static/css/main.db798329.css",
+    "main.js": "/COLOR_PICKER_MERN_TASK3/static/js/main.9272f65b.js",
+    "static/js/787.9cb3e5b4.chunk.js": "/COLOR_PICKER_MERN_TASK3/static/js/787.9cb3e5b4.chunk.js",
+    "index.html": "/COLOR_PICKER_MERN_TASK3/index.html",
+    "main.db798329.css.map": "/COLOR_PICKER_MERN_TASK3/static/css/main.db798329.css.map",
+    "main.9272f65b.js.map": "/COLOR_PICKER_MERN_TASK3/static/js/main.9272f65b.js.map",
+    "787.9cb3e5b4.chunk.js.map": "/COLOR_PICKER_MERN_TASK3/static/js/787.9cb3e5b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.9272f65b.js"
+  ]
+}
